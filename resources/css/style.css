@@ -1,0 +1,27 @@
+body {
+	background-color:black;
+	text-align:center; 
+}
+
+h1 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+
+a {
+	color: Aquamarine;
+	font-size: 16px;
+}
+
+h1 #travelguide{
+	font-weight:300;
+	font-size:42px;
+}
+
+p #copyright {
+	text-align:right;
+	color:gray;
+}
