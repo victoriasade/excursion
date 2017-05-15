@@ -1,7 +1,7 @@
 body {
 	background-color:black;
-	text-align:center;
 	font-family:verdana; 
+	text-align: center;
 }
 
 h1 {
@@ -17,12 +17,16 @@ a {
 	font-size: 16px;
 }
 
-h1 #travelguide{
+#travelguide{
 	font-weight:300;
 	font-size:42px;
 }
 
-p #copyright {
+#copyright {
 	text-align:right;
 	color:gray;
+}
+#subtext {
+	color:gray;
+	font-size: 21px;
 }
